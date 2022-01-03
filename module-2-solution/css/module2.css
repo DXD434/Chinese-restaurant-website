@@ -1,8 +1,9 @@
 body {
-    margin: 0px;
-    padding: 0px;
+    margin: 60px;
+    padding: 60px;
     font-family: popings;
     background:  #fffc56;
+    border-width: 15;
 }
 .wrapper{
     padding: 5px;
